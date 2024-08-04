@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4cf3f37c97573deb7c67362ddb8d9c62",
-"assets/AssetManifest.bin.json": "6f30e02005ec4135f27f02ef17760c62",
-"assets/AssetManifest.json": "61c6ced8b35a6d2e183257f4359ae3e8",
+const RESOURCES = {"assets/AssetManifest.bin": "c205925be0a1d0bf2a271c41effda479",
+"assets/AssetManifest.bin.json": "caabea76cee64b789cbe261959938e8d",
+"assets/AssetManifest.json": "f200c0f3c98af7a944e7ee6cb92150d8",
 "assets/assets/image.png": "40c26aa11ac215e73d4f2fd4bdd6d0fb",
-"assets/assets/Lotte_Chemicals_Pak_Logo.png": "dd5e1ea84c607cde539cc8b31b985021",
+"assets/assets/Lotte_Chemicals_Pak_Logo.png": "4d1fc150531279c47dc862f50cf6f76f",
+"assets/assets/MnV1.png": "bcb1d28a44c6b90f010748629a51f6aa",
+"assets/assets/MvV.png": "2c095c45a47080f8ca36c31f3ba15164",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "6ffbe84c61b2b77139cd081c7e6aadad",
-"assets/NOTICES": "44780aec9f6a1557ca26dfb73ca97614",
+"assets/NOTICES": "5de73443da14cfdff96beb1dfca9c635",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -27,14 +29,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "4cf3f37c97573deb7c67362ddb8d9c62
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "7ace1039da43f4d2d868975e53c9e7ad",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "386ea4c0bf675f1d9f350e9014321cb8",
+"flutter_bootstrap.js": "29e9681d6a2697ffc76c59e5d11b2c7a",
 "icons/Icon-192.png": "63fe6dd5946eea33f3642a835b9ca6da",
 "icons/Icon-512.png": "497350bd4f46d0d785c599d8c78df319",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "77e2a360bb10463332edf1213f08e552",
 "/": "77e2a360bb10463332edf1213f08e552",
-"main.dart.js": "eb0e0d8d3a254285251e02b34ae8f814",
+"main.dart.js": "b127809ecd5075280f8c7ab741bf0431",
 "manifest.json": "b1c492e447ea186c68a8f9355ca79e05",
 "version.json": "e36ec2e5d4ecc7616e33488c30f519eb"};
 // The application shell files that are downloaded before a service worker can
