@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-0 C:\Users\deski02\.gradle\caches\transforms-3\5006fbffb3e426155f47ce04c16ba49b\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-1 C:\Users\deski02\.gradle\caches\transforms-3\66921a6f5471646ab5a79a86556f91e8\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-2 C:\Users\deski02\.gradle\caches\transforms-3\f35876bb4a9e873b3d51a27fb0fac7bc\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-3 C:\Users\deski02\.gradle\caches\transforms-3\f88ade204835996b3c21647e7205a466\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\deski02\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.6\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-5 C:\Users\deski02\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.6\android\src\release\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-9 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-10 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 C:\Users\deski02\Desktop\vacancy_admin-master\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 C:\Users\deski02\Desktop\vacancy_admin-master\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
