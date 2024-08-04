@@ -87,7 +87,7 @@ class _DetailScreenState extends State<DetailScreen> {
         Text(
           label,
           style: GoogleFonts.kanit(
-              fontSize: 27,
+              fontSize: 20,
               color: AppTheme.darkGrey,
               fontWeight: FontWeight.w400),
         ),
@@ -97,7 +97,7 @@ class _DetailScreenState extends State<DetailScreen> {
             value,
             softWrap: true,
             style: GoogleFonts.kanit(
-                fontSize: 27,
+                fontSize: 20,
                 color: AppTheme.darkGrey,
                 fontWeight: FontWeight.w400),
           ),

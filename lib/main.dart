@@ -4,7 +4,7 @@ import 'package:vacancy_admin/provider/auth_provider.dart';
 import 'package:vacancy_admin/provider/home_index_provider.dart';
 import 'package:vacancy_admin/provider/password_visibility_provider.dart';
 import 'package:vacancy_admin/provider/upload_provider.dart';
-import 'package:vacancy_admin/screens/splashscreen/splash_screen.dart';
+import 'package:vacancy_admin/screens/homescreen/home_screen.dart';
 import 'package:vacancy_admin/theme/theme.dart';
 import 'package:provider/provider.dart';
 import 'firebase_options.dart';
@@ -26,7 +26,7 @@ void main() async {
     child: MaterialApp(
       title: 'Vacancy admin',
       debugShowCheckedModeBanner: false,
-      home: const SplashScreen(),
+      home: const HomeScreen(),
       theme: AppTheme.lightTheme,
     ),
   ));
